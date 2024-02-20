@@ -1,2 +1,2 @@
-# projrt-de-gestion-de-stock
+# projet-de-gestion-de-stock
 gestion de stock ou systeme: cruds
